@@ -48,7 +48,7 @@
 
 ---
 
-*Prem M Patel — Computer Engineering - prempatel7740@gmail.com*
+*Prem M Patel — Computer Engineering — prempatel7740@gmail.com*
 
 
 ---
