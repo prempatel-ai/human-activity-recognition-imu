@@ -48,8 +48,8 @@
 
 ---
 
-*Prem M Patel — Computer Engineering*
-*prempatel7740@gmail.com*
+*Prem M Patel — Computer Engineering - prempatel7740@gmail.com*
+
 
 ---
 
@@ -863,7 +863,7 @@ The technique built here is not a benchmark exercise. It runs in production syst
 
 ---
 
-**Prem M Patel** — prempatel7740@gmail.com
-Computer Engineering 
+**Prem M Patel** — prempatel7740@gmail.com — **Computer Engineering** 
+
 
 </div>
